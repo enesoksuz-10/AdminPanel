@@ -1,0 +1,68 @@
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_BusinessLayer.deps.json
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_BusinessLayer.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_BusinessLayer.pdb
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_DataAccessLayer.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_Models.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_DataAccessLayer.pdb
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_Models.pdb
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.csproj.AssemblyReference.cache
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.AssemblyInfoInputs.cache
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.AssemblyInfo.cs
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.csproj.CoreCompileInputs.cache
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.csproj.CopyComplete
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\refint\NorthWND_BusinessLayer.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.pdb
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\ref\NorthWND_BusinessLayer.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_BusinessLayer.deps.json
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_BusinessLayer.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_BusinessLayer.pdb
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_DataAccessLayer.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_Models.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_DataAccessLayer.pdb
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_Models.pdb
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.AssemblyInfo.cs
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.csproj.CopyComplete
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\refint\NorthWND_BusinessLayer.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.pdb
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\ref\NorthWND_BusinessLayer.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_BusinessLayer.deps.json
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_BusinessLayer.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_BusinessLayer.pdb
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_DataAccessLayer.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_Models.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_DataAccessLayer.pdb
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_Models.pdb
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.csproj.AssemblyReference.cache
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.AssemblyInfoInputs.cache
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.AssemblyInfo.cs
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.csproj.CopyComplete
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\refint\NorthWND_BusinessLayer.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.pdb
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\ref\NorthWND_BusinessLayer.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_BusinessLayer.deps.json
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_BusinessLayer.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_BusinessLayer.pdb
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_DataAccessLayer.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_Models.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_DataAccessLayer.pdb
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_BusinessLayer\bin\Debug\net6.0\NorthWND_Models.pdb
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.AssemblyInfo.cs
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.csproj.CopyComplete
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\refint\NorthWND_BusinessLayer.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\NorthWND_BusinessLayer.pdb
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_BusinessLayer\obj\Debug\net6.0\ref\NorthWND_BusinessLayer.dll

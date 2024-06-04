@@ -1,0 +1,1001 @@
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\appsettings.Development.json
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\appsettings.json
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_UI.staticwebassets.runtime.json
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_UI.exe
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_UI.deps.json
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_UI.runtimeconfig.json
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_UI.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_UI.pdb
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Humanizer.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\MessagePack.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Build.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.Common.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_BusinessLayer.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_DataAccessLayer.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_Models.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_BusinessLayer.pdb
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_DataAccessLayer.pdb
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_Models.pdb
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.csproj.AssemblyReference.cache
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.AssemblyInfoInputs.cache
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.AssemblyInfo.cs
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.csproj.CoreCompileInputs.cache
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.MvcApplicationPartsAssemblyInfo.cache
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.RazorAssemblyInfo.cache
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.RazorAssemblyInfo.cs
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\staticwebassets.build.json
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\staticwebassets.development.json
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\scopedcss\bundle\NorthWND_UI.styles.css
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\scopedcss\projectbundle\NorthWND_UI.bundle.scp.css
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.csproj.CopyComplete
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\refint\NorthWND_UI.dll
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.pdb
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.genruntimeconfig.cache
+D:\230_Berk\20042024_Dersler\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\ref\NorthWND_UI.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.csproj.AssemblyReference.cache
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.AssemblyInfoInputs.cache
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.AssemblyInfo.cs
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.csproj.CoreCompileInputs.cache
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.RazorAssemblyInfo.cache
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.RazorAssemblyInfo.cs
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\refint\NorthWND_UI.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.pdb
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\appsettings.json
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_UI.staticwebassets.runtime.json
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_UI.exe
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_UI.deps.json
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_UI.runtimeconfig.json
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_UI.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_UI.pdb
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\MessagePack.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_BusinessLayer.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_DataAccessLayer.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_Models.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_BusinessLayer.pdb
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_DataAccessLayer.pdb
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_Models.pdb
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\scopedcss\bundle\NorthWND_UI.styles.css
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\scopedcss\projectbundle\NorthWND_UI.bundle.scp.css
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.csproj.CopyComplete
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.genruntimeconfig.cache
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\ref\NorthWND_UI.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\appsettings.Development.json
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\appsettings.json
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_UI.staticwebassets.runtime.json
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_UI.exe
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_UI.deps.json
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_UI.runtimeconfig.json
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_UI.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_UI.pdb
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Humanizer.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\MessagePack.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.Common.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_BusinessLayer.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_DataAccessLayer.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_Models.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_BusinessLayer.pdb
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_DataAccessLayer.pdb
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_Models.pdb
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.csproj.AssemblyReference.cache
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.AssemblyInfoInputs.cache
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.AssemblyInfo.cs
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.csproj.CoreCompileInputs.cache
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.MvcApplicationPartsAssemblyInfo.cache
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.RazorAssemblyInfo.cache
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.RazorAssemblyInfo.cs
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\scopedcss\bundle\NorthWND_UI.styles.css
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\scopedcss\projectbundle\NorthWND_UI.bundle.scp.css
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.csproj.CopyComplete
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\refint\NorthWND_UI.dll
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.pdb
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.genruntimeconfig.cache
+D:\Ortak Öğrenci Paylaşımı\230\NorthWND_UI----\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\ref\NorthWND_UI.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\appsettings.json
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_UI.staticwebassets.runtime.json
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_UI.exe
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_UI.deps.json
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_UI.runtimeconfig.json
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_UI.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_UI.pdb
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\MessagePack.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_BusinessLayer.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_DataAccessLayer.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_Models.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_BusinessLayer.pdb
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_DataAccessLayer.pdb
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\bin\Debug\net6.0\NorthWND_Models.pdb
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.csproj.AssemblyReference.cache
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.AssemblyInfoInputs.cache
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.AssemblyInfo.cs
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.csproj.CoreCompileInputs.cache
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.RazorAssemblyInfo.cache
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.RazorAssemblyInfo.cs
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\staticwebassets\msbuild.NorthWND_UI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\staticwebassets\msbuild.build.NorthWND_UI.props
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NorthWND_UI.props
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NorthWND_UI.props
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\scopedcss\bundle\NorthWND_UI.styles.css
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\scopedcss\projectbundle\NorthWND_UI.bundle.scp.css
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.csproj.CopyComplete
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\refint\NorthWND_UI.dll
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.pdb
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\NorthWND_UI.genruntimeconfig.cache
+C:\Users\eneso\OneDrive\Masaüstü\Son Ders\NorthWND_UI\NorthWND_UI\obj\Debug\net6.0\ref\NorthWND_UI.dll

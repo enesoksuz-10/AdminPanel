@@ -1,0 +1,12 @@
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_Infrastructure\bin\Debug\net6.0\NorthWND_Infrastructure.deps.json
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_Infrastructure\bin\Debug\net6.0\NorthWND_Infrastructure.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_Infrastructure\bin\Debug\net6.0\NorthWND_Infrastructure.pdb
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_Infrastructure\obj\Debug\net6.0\NorthWND_Infrastructure.csproj.AssemblyReference.cache
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_Infrastructure\obj\Debug\net6.0\NorthWND_Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_Infrastructure\obj\Debug\net6.0\NorthWND_Infrastructure.AssemblyInfoInputs.cache
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_Infrastructure\obj\Debug\net6.0\NorthWND_Infrastructure.AssemblyInfo.cs
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_Infrastructure\obj\Debug\net6.0\NorthWND_Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_Infrastructure\obj\Debug\net6.0\NorthWND_Infrastructure.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_Infrastructure\obj\Debug\net6.0\refint\NorthWND_Infrastructure.dll
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_Infrastructure\obj\Debug\net6.0\NorthWND_Infrastructure.pdb
+C:\Users\vektorel\Desktop\NorthWND_UI\NorthWND_Infrastructure\obj\Debug\net6.0\ref\NorthWND_Infrastructure.dll

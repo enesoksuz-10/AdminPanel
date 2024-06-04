@@ -1,0 +1,37 @@
+﻿@using NorthWND_Models.Entities.Concreate
+@model Employee
+
+@{
+    Layout = "/Areas/AdminPanel/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="row">
+
+    <table class="border">
+        <tr>
+            <td>İsim Soyisim</td>
+            <td>:</td>
+            <td>@(Model.FirstName + " " + Model.LastName)</td>
+        </tr>
+        <tr>
+            <td>Ülke/Şehir</td>
+            <td>:</td>
+            <td>@(Model.Country + "/" + Model.City)</td>
+        </tr>
+    </table>
+
+
+</div>
+<div class="row">
+
+    @await Component.InvokeAsync("InfoBox" , new{BackGround ="bg-success",Icon="ion-stats-bars" ,Count ="150",Title="New Orders"})
+    @await Component.InvokeAsync("InfoBox" , new{BackGround ="bg-warning",Icon="ion-person-add",Count ="250",Title="Delivered Orders"})
+    @await Component.InvokeAsync("InfoBox" , new{BackGround ="bg-danger",Icon="ion-pie-graph ",Count ="350",Title="On Going"})
+    @await Component.InvokeAsync("InfoBox" , new{BackGround ="bg-info",Icon="ion-bag",Count ="750",Title="Total"})
+
+</div>
+
+
+
+
+

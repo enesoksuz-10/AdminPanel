@@ -1,0 +1,340 @@
+﻿@using NorthWND_UI.Areas.AdminPanel.Models
+@model EmployeeIndexViewModel
+
+@{
+    Layout = "/Areas/AdminPanel/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+
+@section customCss{
+    <link rel="stylesheet" href="~/adminPanel/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="~/adminPanel/plugins/datatables-responsive/css/responsive.bootstrap4.min.css">
+
+    <link rel="stylesheet" href="~/adminPanel/plugins/datatables-buttons/css/buttons.bootstrap4.min.css">
+}
+
+
+    @section customScripts{
+    <script src="~/adminPanel/plugins/jquery/jquery.min.js"></script>
+    <script src="~/adminPanel/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/adminPanel/plugins/datatables/jquery.dataTables.min.js"></script>
+    <script src="~/adminPanel/plugins/datatables-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="~/adminPanel/plugins/datatables-responsive/js/dataTables.responsive.min.js"></script>
+    <script src="~/adminPanel/plugins/datatables-responsive/js/responsive.bootstrap4.min.js"></script>
+    <script src="~/adminPanel/plugins/datatables-buttons/js/dataTables.buttons.min.js"></script>
+    <script src="~/adminPanel/plugins/datatables-buttons/js/buttons.bootstrap4.min.js"></script>
+    <script src="~/adminPanel/plugins/jszip/jszip.min.js"></script>
+    <script src="~/adminPanel/plugins/pdfmake/pdfmake.min.js"></script>
+    <script src="~/adminPanel/plugins/pdfmake/vfs_fonts.js"></script>
+    <script src="~/adminPanel/plugins/datatables-buttons/js/buttons.html5.min.js"></script>
+    <script src="~/adminPanel/plugins/datatables-buttons/js/buttons.print.min.js"></script>
+    <script src="~/adminPanel/plugins/datatables-buttons/js/buttons.colVis.min.js"></script>
+
+
+    <script>
+        $(document).ready(function () {
+            $("#tblEmployee").DataTable({
+                "paging": true,
+                "lengthChange": false,
+                "searching": false,
+                "ordering": true,
+                "info": true,
+                "autoWidth": false,
+                "responsive": true,
+            });
+
+            $("#ddlCities").change(function (){
+                var cityId = $(this).val();
+
+
+
+                $("#ddlProvince").empty();
+                $("#ddlProvince").append(" <option value=' - 1'>Seçiniz..</option>")
+
+                $.ajax({
+                        url:"/AdminPanel/Province/GetByCities/"+cityId,
+                        method: "post",
+                        success : function(response){
+                            if(response.response){
+                                for(var i=0;i<response.province.length;i++){
+                                $("#ddlProvince").append(" <option> "+response.province[i].ilceAdi+"</option>")
+                                }
+                            }
+                        }
+                });
+
+                $("#btnSave").click(function () {
+
+                    var file = $("#frmPhotoPath").prop("files")[0];
+                    var formData = new  FormData();
+
+                    var Toast = Swal.mixin({
+                        toast: true,
+                        position: 'top-end',
+                        showConfirmButton: false,
+                        timer: 3000
+                    });
+
+                    formData.append("selectedFile",file);
+                    var model = {
+                        FirstName: $("#txtFirtName").val(),
+                        LastName: $("#txtLastName").val(),
+                        Title: $("#txtTitle").val(),
+                        HireDate: $("#txtHireDate").val(),
+                        Cities: $("#ddlCities").val(),
+                        Province: $("#ddlProvince").val(),
+                        Manager: $("#dllManager").val(),
+                        //PhotoPath: $("#frmPhotoPath"),
+                    }
+
+                    formData.append("FirstName",model.FirstName);
+                    formData.append("LastName", model.LastName);
+                    formData.append("Title", model.Title);
+                    formData.append("Cities", model.Cities);
+                    formData.append("Province", model.Province);
+                    formData.append("Manager", model.Manager);
+                    formData.append("FirstName",model.FirstName);
+
+
+                    $.ajax({
+                        url: "/AdminPanel/Employee/AddEmployee",
+                        method: "post",
+                        datatype: "json",
+                        data: formData,
+                        contentType: false,
+                        processData : false,
+                        success: function (response) {
+                            if (response.result && response.basariliMi) {
+                                Swal.fire({
+                                    title: "Başarılı",
+                                    text: response.message,
+                                    icon: "success",
+                                    confirmButtonColor: "#3085d6",
+                                    cancelButtonColor: "#d33",
+                                    confirmButtonText: "Kapat"
+                                }).then((result) => {
+                                    if (result.isConfirmed) {
+                                        $("#divNewEmp").modal("hide");
+                                        window.location.reload();
+                                    }
+                                });
+
+                            }
+                            else {
+                                Toast.fire({
+                                    icon: 'error',
+                                    title: response.message
+                                })
+                            }
+                        }
+
+                    });
+
+
+
+                });
+
+            });
+
+
+        });
+
+
+
+    </script>
+    }
+
+    <div class="row">
+
+
+        <button type="button" class="btn btn-warning m-3" data-toggle="modal" data-target="#divNewEmp">
+            Yeni Çalışan Ekle
+        </button>
+
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Listedeki Tüm Ürünleri</h3>
+            </div>
+            <!-- /.card-header -->
+            <div class="card-body">
+                <table id="tblEmployee" class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Ad Soyad</th>
+                            <th>Ünvanı</th>
+                            <th>Ülke-Şehir</th>
+                            <th>İşe Baş. Tarih</th>
+                            <th>Yöneticisi</th>
+                            <th>Sil</th>
+                            <th>Düzenle</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    @foreach (var item in Model.ListEmployee)
+                    {
+                        <tr>
+                            <td>
+                                <img src="@item.PhotoPath" style="width:150px;height:150px;" />
+                            </td>
+
+                            <td>@($"{item.FirstName} {item.LastName}")</td>
+                            <td>@item.Title</td>
+                            <td>@($"{item.Country} {item.City}")</td>
+                            <td>@item.HireDate.Value.ToShortDateString()</td>
+                            <td>
+                                @if (item.Manager != null)
+                                {
+                                    <span>@($"{item.Manager.FirstName} {item.Manager.LastName}")</span>
+                                }
+                                else
+                                {
+                                    <span>Manager</span>
+                                }
+                            </td>
+                            <td>
+                                <button productId="@item.EmployeeId" class="btn btn-danger">
+                                    Sil
+                                </button>
+                            </td>
+                            <td>
+                                <button productId="@item.EmployeeId" class="btn btn-warning btnEdit" data-toggle="modal" data-target="#divEditEmp">
+                                    Düzenle
+                                </button>
+                            </td>
+                        </tr>
+                    }
+
+
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <th>#</th>
+                        <th>Ad Soyad</th>
+                        <th>Ünvanı</th>
+                        <th>Ülke-Şehir</th>
+                        <th>İşe Baş. Tarih</th>
+                        <th>Yöneticisi</th>
+                        <th>Sil</th>
+                        <th>Düzenle</th>
+                    </tr>
+                </tfoot>
+            </table>
+        </div>
+        <!-- /.card-body -->
+    </div>
+
+</div>
+
+
+
+
+<div class="modal fade" id="divNewEmp">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Yeni Çalışan Ekle</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+
+                <div class="form-group">
+
+                    <label for="Name">Adı:</label>
+                    <input id="txtFirtName" type="text" class="form-control" />
+                </div>
+
+                <div class="form-group">
+
+                    <label for="LastName">Soyadi:</label>
+                    <input id="txtLastName" type="text" class="form-control" />
+                </div>
+
+                <div class="form-group">
+
+                    <label for="Title">unvani:</label>
+                    <input id="txtTitle" type="text" class="form-control" />
+                </div>
+
+                <div class="form-group">
+
+                    <label for="HireDate">İşe Başlama Tarihi:</label>
+                    <input id="txtHireDate" type="date" class="form-control" />
+                </div>
+
+                <div class="form-group">
+                    <label for="Country">İl</label>
+                    <select id="ddlCities" class="custom-select form-control-border">
+                        <option value="-1">Seçiniz..</option>
+                        @foreach (var item in Model.Cities)
+                        {
+                            <option value="@item.SehirId">@item.SehirAdi</option>
+                        }
+
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="City">İlçe</label>
+                    <select  class="custom-select form-control-border" id="ddlProvince">
+                        <option value="-1">Seçiniz..</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="Manager">Manager</label>
+                    <select class="custom-select form-control-border" id="dllManager">
+                        <option value="-1">Seçiniz..</option>
+                        @foreach (var item in Model.ListEmployee)
+                        {
+                            <option value="@item.EmployeeId">@item.FirstName</option>
+                        }
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="formFile" class="form-label">Default file input example</label>
+                    <input class="form-control" type="file" id="frmPhotoPath">
+                </div>
+                <div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Kapat</button>
+                        <button id="btnSave" type="submit" class="btn btn-primary">Kaydet</button>
+                    </div>
+                 
+                </div>
+            </div>
+            <!-- /.modal-content -->
+        </div>
+        <!-- /.modal-dialog -->
+    </div>
+
+
+
+
+    <div class="modal fade" id="divEditProduct">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Ürün Güncelle</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                </div>
+                <div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Kapat</button>
+                        <button id="btnEdit" type="submit" class="btn btn-success">Güncelle</button>
+                    </div>
+
+                </div>
+            </div>
+            <!-- /.modal-content -->
+        </div>
+        <!-- /.modal-dialog -->
+    </div>
+
+
+
